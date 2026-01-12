@@ -13,6 +13,7 @@ A pytorch implementation for the paper: '*STD2Vformer: A prediction-length-agnos
 # 📊Regular Prediction
 
 ![Regular Result](./image/Regular_Result.png)
+Please refer to the paper for experimental results on additional datasets.
 
 # 📊Flexible Prediction
 
